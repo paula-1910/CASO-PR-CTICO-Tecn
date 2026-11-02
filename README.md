@@ -1,0 +1,2 @@
+# CASO-PRÁCTICO-Tecn
+Gráficas
